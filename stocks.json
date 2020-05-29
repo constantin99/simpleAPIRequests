@@ -1,0 +1,110 @@
+{
+  "industries": [
+    {
+      "id": 1,
+      "name": "Tech"
+    },
+    {
+      "id": 2,
+      "name": "Pharmaceutical"
+    },
+    {
+      "id": 3,
+      "name": "Real estate"
+    },
+    {
+      "id": 4,
+      "name": "Oil and gas exploration"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "industryId": 1,
+      "name": "DELL",
+      "denumire": "Dell Technologies Inc.",
+      "bursa": "NYSE",
+      "active": true,
+      "deschidere": 39.33,
+      "capital_bursier": "29.35 mld.",
+      "image": "../images/dell.png"
+    },
+    {
+      "id": 2,
+      "industryId": 2,
+      "name": "ZNTL",
+      "denumire": "Zentails Pharmaceuticals",
+      "bursa": "NASDAQ",
+      "active": true,
+      "deschidere": 28.51,
+      "capital_bursier": "1.052 mld.",
+      "image": "../images/zntl.jpg"
+    },
+    {
+      "id": 3,
+      "industryId": 2,
+      "name": "TEVA",
+      "denumire": "Teva Pharmaceuticals Industries Limited",
+      "bursa": "NYSE",
+      "active": true,
+      "deschidere": 10.16,
+      "capital_bursier": "9.047 mld,",
+      "image": "../images/teva.png"
+    },
+    {
+      "id": 4,
+      "industryId": 3,
+      "name": "IYR",
+      "denumire": "iShares U.S. Real Estate ETF",
+      "bursa": "NYSE",
+      "active": true,
+      "deschidere": 72.80,
+      "capital_bursier": "4.897 mil.",
+      "image": "../images/ishare.png"
+    },
+    {
+      "id": 5,
+      "industryId": 3,
+      "name": "VNQ",
+      "denumire": "Vanguard Real Estate Index Fund",
+      "bursa": "NYSE",
+      "active": true,
+      "deschidere": 72.97,
+      "capital_bursier": "6.382 mld.",
+      "image": "../images/vanguard.jpg"
+    },
+    {
+      "id": 6,
+      "industryId": 4,
+      "name": "USO",
+      "denumire": "United States Oil Fund",
+      "bursa": "NYSE",
+      "active": true,
+      "deschidere": 2.690,
+      "capital_bursier": "306.1 mil.",
+      "image": "../images/uscv.png"
+    },
+    {
+      "id": 7,
+      "industryId": 4,
+      "name": "^SPSOP",
+      "denumire": "S&P Oil & Gas Exploration",
+      "bursa": "NYSE",
+      "active": true,
+      "deschidere": 2160.58,
+      "capital_bursier": " ",
+      "image": "../images/spdr.png"
+    },
+    {
+      "id": 8,
+      "industryId": 1,
+      "name": "AAPL",
+      "denumire": "Apple Inc.",
+      "bursa": "NASDAQ",
+      "active": true,
+      "deschidere": 277.20,
+      "capital_bursier": "1.238 tril.",
+      "image": "../images/apple.png"
+    }
+  ]
+}
